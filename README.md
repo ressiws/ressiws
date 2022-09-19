@@ -1,6 +1,4 @@
-<div align="center">
-<h2 align="left">Hello world 👋! Iam Swisser, from Portugal PT</h2>
-</div>
+<h2 align="center">Hello world 👋! Iam Swisser, from Portugal PT</h2>
 
 ###
 
