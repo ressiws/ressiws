@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋+!+Iam+Swisser,+from+Portugal+PT) <br/>
+
 <h2 align="center">Hello world 👋! Iam Swisser, from Portugal PT</h2>
 
 ###
