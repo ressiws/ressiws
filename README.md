@@ -2,6 +2,9 @@
 
 <h2 align="center">Iam Swisser, from Portugal PT</h2>
 
+### About Me 🚀
+🌱Iam a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
+
 ###
 
 <div align="center">
