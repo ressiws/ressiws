@@ -1,4 +1,4 @@
-<br><h2 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋!)<br/></h2>
+<br>![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋!)<br/>
 
 <h2 align="center">Iam Swisser, from Portugal PT</h2>
 
