@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋!)
+<h2 align="center">Hello there! Swisser here 👋</h2>
+<h2 align="center">Welcome to my profile frontpage</h2>
 
-<h2 align="center">Iam Swisser, from Portugal PT</h2>
-
-### About Me 🚀
-🌱Iam a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
+### Some things About me 🚀
+- 📝 I'm Afonso, commonly known as Swisser.  
+- 🌱 Iam a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
 
 ###
 
