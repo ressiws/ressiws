@@ -1,5 +1,6 @@
 <h2 align="center">Hello there! Swisser here 👋<br/>Welcome to my profile!</h2>
-![](https://imgur.com/453lnHS.gif)
+
+## ![](https://imgur.com/453lnHS.gif)
 
 ### Some things About me 🚀
 - 📝 I'm Afonso, commonly known as Swisser.  
