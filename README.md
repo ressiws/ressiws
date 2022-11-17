@@ -1,5 +1,4 @@
-<h2 align="center">Hello there! Swisser here 👋</h2>
-<h2 align="center">Welcome to my profile frontpage</h2>
+<h2 align="center">Hello there! Swisser here 👋<br/>Welcome to my profile frontpage</h2>
 
 ### Some things About me 🚀
 - 📝 I'm Afonso, commonly known as Swisser.  
