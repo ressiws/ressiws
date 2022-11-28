@@ -2,7 +2,7 @@
 
 ### Some things About me 🚀
 - 📝 I'm Afonso, commonly known as Swisser.  
-- 🌱 Iam a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
+- 🌱 I am just a simple developer who is interested in Security researching, reverse engineer, Windows kernel development and low-level programming.
 
 ###
 
