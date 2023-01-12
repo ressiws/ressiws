@@ -4,7 +4,7 @@
 - 📝 I'm Afonso, commonly known as Swisser.  
 - 🌱 I am just a simple software developer who is interested in Security researching, Reverse engineering, Windows kernel development and low-level programming.
 - 📟 Experience: I'm a C++ developer with 3+ years of experience.
-- 💬 Currently learning: Hardware and TypeScript.
+- 💬 Currently learning: .
 
 
 ###
