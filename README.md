@@ -32,12 +32,22 @@
 
 ###
 
-<h3 align="center">Some of my Stats</h3>  
+### ⚙️ GitHub Analytics
 
-###
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ressiws&show_icons=true&theme=dark"></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ressiws&theme=dark"></div>
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
 
 ###
 
