@@ -39,7 +39,6 @@
 **Programming languages and Tools I use(d)**  
 
 <br/>
-<br/>
 
 <code><img height="40" width="40" src="https://github.com/ressiws/ressiws/blob/main/images/python.png"></code>
 <code><img height="40" width="40" src="https://github.com/ressiws/ressiws/blob/main/images/cpp.png"></code>
