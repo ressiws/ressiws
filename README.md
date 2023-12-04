@@ -30,9 +30,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ressiws&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tugamer89&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/right.webp">
+  <img height="150" width="150" src="https://github.com/ressiws/ressiws/blob/main/images/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ressiws&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/ressiws/ressiws/blob/main/images/right.webp">
 </p>
 
 #
