@@ -12,7 +12,7 @@
 ### Some things About me 🚀
 - 📝 I'm Afonso, commonly known as Swisser.
 - 🌱 I'm currently studying **computer science.**
-- 📟 I'm a **C++** developer with **4+ years** of experience.
+- 📟 I'm a **C++** developer with **5+ years** of experience.
 - 💬 Currently learning how to sleep 8 hours in 4 hours
 - 💡  Motto: In the world of **science**, anything is possible
 
