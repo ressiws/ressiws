@@ -10,9 +10,10 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2000&pause=100&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=430&height=150&lines=A+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+passionate+about;programming+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+cybersecurity+%F0%9F%94%92+%F0%9F%99%83"/>
 
 ### Some things About me 🚀
-- 🌱 I'm currently studying **computer science.**
-- 📟 I'm a **C++** developer with **5+ years** of experience.
-- 💬 Currently learning how to sleep 8 hours in 4 hours
+- 🌱 **Currently studying** Computer Science.
+- 📟 **C++ Developer** with **5+ years** of experience.
+- 💬 Currently learning the art of sleeping 8 hours in just 4.
+- 🛠️ Passionate about low-level programming, including bootkits and reverse engineering.
 - 💡 Motto: In the world of **science**, anything is possible
 
 <br/>
