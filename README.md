@@ -13,7 +13,7 @@
 - 🌱 **Currently studying** Computer Science.
 - 📟 **C++ Developer** with **5+ years** of experience.
 - 💬 Currently learning the art of sleeping 8 hours in just 4.
-- 🛠️ Passionate about low-level programming, including bootkits and reverse engineering.
+- 🛠️ Passionate about low-level programming and reverse engineering.
 - 💡 Motto: In the world of **science**, anything is possible
 
 <br/>
