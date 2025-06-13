@@ -11,10 +11,10 @@
 
 ### Some things About me 🚀
 - 🌱 **Computer Science student**, always curious and exploring
-- 📟 **C++** and **JavaScript/TypeScript** developer with over **6 years** of experience in both worlds.
-- 🧠 I also dive into **Windows kernel** development to build low-level software (and yes, it’s as fun as it sounds).
-- 😴 Mastering the dark art of sleeping 8 hours in 4 (work in progress).
-- 🛠️ Deeply passionate about low-level programming and reverse engineering.
+- 📟 **C++** & **JS/TS dev** with **6+ years** of experience.
+- 🧠 Tinkering with the **Windows kernel** for low-level magic.
+- 😴 Trying to sleep 8h in 4 (still debugging).
+- 🛠️ Passionate about **low-level code** & **reverse engineering**.
 - 💡 _"In the world of science, anything is possible."_
 
 <br/>
