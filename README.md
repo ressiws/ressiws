@@ -21,9 +21,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ressiws&style=flat&color=brightgreen" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-  <img src="https://wakatime.com/badge/user/018c32dc-9f48-45e1-84c6-a16f825d54c6.svg" alt="Total time coded since Dec 1 2020"/> •
+  <img src="https://wakatime.com/badge/user/018c32dc-9f48-45e1-84c6-a16f825d54c6.svg" alt="Total time coded since Dec 1 2020"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/stars/ressiws?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  
   <a href="https://github.com/sponsors/ressiws">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
   </a>
