@@ -37,7 +37,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/ressiws/ressiws/blob/main/images/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ressiws&theme=dark&hide_border=true"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=ressiws&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
   <img height="150" width="150" src="https://github.com/ressiws/ressiws/blob/main/images/right.webp">
 </p>
 
