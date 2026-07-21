@@ -11,7 +11,7 @@
 
 ### Some things About me 🚀
 - 🌱 **Computer Science student**, always curious and exploring
-- 📟 **C++** & **JS/TS dev** with **6+ years** of experience.
+- 📟 **C++** & **JS/TS dev** with **7+ years** of experience.
 - 😴 Trying to sleep 8h in 4 (still debugging).
 - 🛠️ Passionate about **low-level code** & **reverse engineering**.
 - 💡 _"In the world of science, anything is possible."_
